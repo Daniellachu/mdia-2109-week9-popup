@@ -1,0 +1,20 @@
+.container{
+    background-color: bisque;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+.popup_area{
+    margin: 0px;
+    background-color: cadetblue;
+    position: absolute;
+    height: 20rem;
+    width: 40rem;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
